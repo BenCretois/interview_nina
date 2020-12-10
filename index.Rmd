@@ -82,7 +82,7 @@ knitr::include_graphics('distribung.png')
 ---
 # Work 2
 
-* The data came from **citizen science portals** including GBIF and Artsobservasjoner (large dataset requiring a lot of pre-processing!)
+* The data came from **citizen science portals** including GBIF and Artsobservasjoner, hunting statistics ... (large dataset requiring a lot of pre-processing!)
 
 * The analysis required handling large raster and running the model a **Cloud server**
 
@@ -96,9 +96,7 @@ $logit(\pi_i) = \alpha_i + x_i \beta + u_i$
 $u_i | u_k \sim normal(\frac{\sum_{i \neq k} w_{i,k}u_k}{n_i}, \frac{\sigma^2_u}{n_i})$
 ]
 
-* I learned both **Cloud computing** and **INLA** for this analysis
-
-* This work has involved working in a cross-disciplinary team and resulted in 2 papers for my PhD
+* This work has involved working in a **cross-disciplinary team** and resulted in 2 papers for my PhD
 
 ---
 # Work 2
@@ -115,7 +113,7 @@ knitr::include_graphics('papers_tot.PNG')
 
 class: inverse, middle, center
 
-# Thank you for your attention and for considering my application!
+# Thank you for your attention!
 
 ### Slides made with the R package [xaringan](https://bookdown.org/yihui/rmarkdown/xaringan.html) and available on my [github](https://bencretois.github.io/interview_nina/#1)
 
