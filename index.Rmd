@@ -73,22 +73,20 @@ class: inverse, center, middle
 
 * We **Compiled** different source of data to **make, display and analyze** distribution maps of ungulates species in Europe.
 
-* The data came from **citizen science portals** including GBIF and Artsobservasjoner (large dataset requiring a lot of pre-processing!)
-
-* The analysis required handling large raster and running the model a **Cloud server** (skill that I had to quickly learn)
-
-* This work has involved working in a cross-disciplinary team and resulted in 2 papers for my PhD
-
----
-# Work 2
-
-* The resulting distribution maps:
-
 .center[
 ```{r, echo = FALSE, out.width="600px"}
 knitr::include_graphics('distribung.png')
 ```
 ]
+
+---
+# Work 2
+
+* The data came from **citizen science portals** including GBIF and Artsobservasjoner (large dataset requiring a lot of pre-processing!)
+
+* The analysis required handling large raster and running the model a **Cloud server** (skill that I had to quickly learn)
+
+* This work has involved working in a cross-disciplinary team and resulted in 2 papers for my PhD
 
 ---
 # Work 2
@@ -113,6 +111,6 @@ class: inverse, middle, center
 
 # Thank you for your attention and for considering my application!
 
-### Slides made with the R package **xaringan** and available on my [github](https://bencretois.github.io/my_work_presentation/#1)
+### Slides made with the R package **xaringan** and available on my [github](https://github.com/BenCretois/interview_nina)
 
 ---
