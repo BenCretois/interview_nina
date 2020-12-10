@@ -109,7 +109,7 @@ knitr::include_graphics('paper2.PNG')
 
 class: inverse, middle, center
 
-# Thank you for your attention and for considering my application!
+# Thank you for your attention!
 
 ### Slides made with the R package **xaringan** and available on my [github](https://github.com/BenCretois/interview_nina)
 
