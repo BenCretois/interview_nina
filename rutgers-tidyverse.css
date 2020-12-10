@@ -26,13 +26,18 @@ a, a > code {
 
 /* color tweak */
 .inverse {
-  background-color: #192841;
+  background-color: #38ADAE;
   color: #000000;
 }
 
 /* slightly spacing change */
-.inverse h1, .inverse h2, .inverse h3 {
-  color: #f3f3f3;
+.inverse h1, .inverse h2 {
+  color: #CD295A;
+  line-height: 1.0em;
+}
+
+.inverse h3 {
+  color: #FFFFFF;
   line-height: 1.0em;
 }
 
@@ -113,11 +118,11 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url('sander-weeteling-KABfjuSOx74-unsplash.jpg');
+  background-image: url(sander-weeteling-KABfjuSOx74-unsplash.jpg);
   /* background-position: 13% 35%;
-  background-size: 10px;
+  background-size: 95px;
   background-color: #fff; 
- 
+  padding-left: 100px; delete this for 4:3 aspect ratio */
 }
 
 /* H1 fonts */
