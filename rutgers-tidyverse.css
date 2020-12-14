@@ -228,7 +228,7 @@ strong {
 }
 
 .RUred {
-  color: #CD295A;
+  color: #FFFFFF;
 }
 
 /* Add blue tag */
@@ -255,6 +255,11 @@ strong {
 /* Add white tag */
 .white {
   color: white;
+}
+
+/* Add orange tag */
+.orange{
+  color: #F49F1C;
 }
 
 /* Color adjustments to headers */

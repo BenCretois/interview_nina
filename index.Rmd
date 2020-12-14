@@ -15,61 +15,57 @@ output:
 ---
 class: inverse, center, middle
 
-# Work 1: GEOG3006 - Quantitative Methods
+# A diverse background
 
-###Conveying complex concepts to a diverse audience
+### Providing insights from multiple disciplines!
 
-## `r emo::ji("teacher")`
-
----
-# Work 1
-
-- Teaching the use of R programming and principles of data analysis
-
-- Students from very different backgrounds
-
-- Master level course
-
-- Architecture of the course based on the **workflow of the data scientist**:
-
-```{r, echo = FALSE}
-knitr::include_graphics('ds_workflow.PNG')
-```
+# `r emo::ji('cap')`
 
 ---
-# Work 1
+# 1 - Background
+
+* A year in **Classes preparatoires** in **Mathematics**
+
+* Two years in the **Navy infantry** as a sergeant 
+
+* Bachelor in **Ecology and Evolution**
+
+* Master in **Environment and Law** - Master thesis done at NINA under the supervision of *JDC Linnell*
+
+* Now PhD Candidate in **Spatial Data Analysis** at NTNU and NINA under the supervision of *Jan Ketil Rød, Erlend B. Nilsen and JDC Linnell*
+
+--
+
+* *Fun fact*: My father is a computer engineer I was actually considering a degree in **Computer Science** after the Navy!
+
+---
+class: inverse, center, middle
+
+# 2 - Data Science skills
+
+### Managing, visualizing and analyzing the data
+
+# `r emo::ji('stats')`
+
+---
+# 2 - Data science skills
+
+* **Data Science** is a course I co-lead at the Department of Geography!
+
+* We developed a **Quantitative methods** course from scratch for Master students
 
 - I wanted the course to be accessible to **everyone** (not just NTNU students) ...
 
 --
 
-- ... so I created a website:
-
-.center[
-**https://bencretois.github.io/GEOG3006/**]
+- ... so I created a website **in R** and hosted on **Github**: **https://bencretois.github.io/GEOG3006/**
 
 --
 
-- Website made with the R package **Distill** and hosted on **Github**
-
-.center[
-```{r, echo = FALSE, out.width="400px"}
-knitr::include_graphics('websiteR.PNG')
-```
-]
+* I am also TA in **GIS Tools for Climate Change Studies**, where I also made the material available on github: https://bencretois.github.io/GEOG3527/
 
 ---
-class: inverse, center, middle
-
-# Work 2: Some of my PhD work
-
-### Flexibility, adaptability & handling large dataset
-
-## `r emo::ji("stats")`
-
-
----
-# Work 2
+# 2 - Data science skills
 
 * We **Compiled** different source of data to **make, display and analyze** distribution maps of ungulates species in Europe.
 
@@ -80,28 +76,15 @@ knitr::include_graphics('distribung.png')
 ]
 
 ---
-# Work 2
+# 2 - Data science skills
 
 * The data came from **citizen science portals** including GBIF and Artsobservasjoner, hunting statistics ... (large dataset requiring a lot of pre-processing!)
 
 * The analysis required handling large raster and running the model a **Cloud server**
 
-* I used a Bayesian framework and the **Integrated Nested Laplace Approximation** to build an iCAR model of the form:
+* I used a Bayesian framework and the **Integrated Nested Laplace Approximation** to build an iCAR model 
 
-.center[
-$y\sim Bernouilli(\pi_i)$ 
-
-$logit(\pi_i) = \alpha_i + x_i \beta + u_i$
-
-$u_i | u_k \sim normal(\frac{\sum_{i \neq k} w_{i,k}u_k}{n_i}, \frac{\sigma^2_u}{n_i})$
-]
-
-* This work has involved working in a **cross-disciplinary team** and resulted in 2 papers for my PhD
-
----
-# Work 2
-
-`r emo::ji('right')` Links to [paper 1](https://www.sciencedirect.com/science/article/pii/S0006320719318312) and [paper 2](https://ecoevorxiv.org/2md94/download?format=pdf)
+* Like most of my work, extensive collaboration with **NINA researchers**!
 
 .center[
 ```{r, echo = FALSE}
@@ -109,12 +92,133 @@ knitr::include_graphics('papers_tot.PNG')
 ```
 ]
 
----
-
-class: inverse, middle, center
-
-# Thank you for your attention!
-
-### Slides made with the R package [xaringan](https://bookdown.org/yihui/rmarkdown/xaringan.html) and available on my [github](https://bencretois.github.io/interview_nina/#1)
 
 ---
+class: inverse, center, middle
+
+# 3 - Communication
+
+### Conveying complex concepts to a diverse audience
+
+# `r emo::ji('speech')`
+
+---
+# 3 - Explaining complex analysis and concepts
+
+* I presented my work at the **Conservation Optimism Summit** in Oxford where attendees were mostly non-scientists
+
+* **Transforming Citizen Science for Biodiversity**, the project my PhD is part of is very cross-disciplinary and that is stimulating!
+
+* I am also running a blog where I try to explain simply complex statistical methodologies
+
+.center[
+```{r, echo = FALSE}
+knitr::include_graphics('blogpost.PNG')
+```
+]
+
+---
+class: inverse, center, middle
+
+# 4 - Teamwork 
+
+### Participation and collaboration in varied research project
+
+# `r emo::ji('family')`
+
+
+---
+# 4 - Teamwork & project diversity
+
+* While my PhD mainly focus on **spatial data science** I was and I am involved in a diversity of research projects
+
+* In a previous work at NINA with JDC Linnell, I used **K nearest neighbors methods** to cluster environmental legislation
+
+```{r, echo = FALSE}
+knitr::include_graphics('humanwildlife.PNG')
+```
+
+---
+# 4 - Teamwork & project diversity
+
+* Now, collaborating on a project at the interface of Machine Learning and Statistics lead by **Bob O'Hara** and **Emily Simmonds**
+
+* The aim is to assess how is **uncertainty** reported in various fields (political science, ecology, economy ...)
+
+* I am also contributing to **Living Norway** and was responsible for the Twitter feed during the 2nd Colloquium
+
+.center[
+```{r, echo = FALSE, out.width="400px"}
+knitr::include_graphics('tweet_ln.PNG')
+```
+]
+
+---
+class: inverse, center, middle
+
+# 5 - Aborbing knowledge quickly
+
+### Flexibility and curiosity!
+
+# `r emo::ji('library')`
+
+---
+# 5 - Capacity to learn quickly
+
+* Having a broad range of interests implies learning new methods / technologies fast!
+
+* I learned how to use **Overleaf** (online LaTeX editor) to collaborate with the statisticians
+
+* I learned **Bayesian statistics** on my own and I am now able to build complex models
+
+* I am also use to follow MOOCs to learn more technical skills (Python and HTML, CSS, JS):
+
+.center[
+```{r, echo = FALSE, out.width="400px"}
+knitr::include_graphics('mooc.PNG')
+```
+]
+
+---
+# 5 - Absorbing knowledge quickly
+
+* I was currently planning to learn more about **image recognition algorithms** to work on a camera trap database:
+
+* I learned the basic of **Machine Learning** in Python with Scikit-learn (SVM, Random Forests, KNN; very close to statistical methods!)
+
+* I am now learning **Deep Learning** with TensorFlow and Keras
+
+* I am enrolled on a course on Deep Learning and **Computer Vision** at NTNU
+
+.center[
+```{r, echo = FALSE, out.width="500px"}
+knitr::include_graphics('ml.PNG')
+```
+]
+
+
+---
+class: center, inverse
+
+# 6 - Finally, why I would like to work as a Data Scientist at NINA!
+
+--
+
+.RUred[Not be completely detached from the research environment but rather .orange[help researchers do better research]]
+
+--
+
+.RUred[I would like to continue working with .orange[ecological] data while improving my knowledge of CS and ML]
+
+--
+
+.RUred[NINA has great projects (e.g. .orange[Living Norway]) and I would like to contribute to their development]
+
+--
+
+.RUred[NINA has a really .orange[stimulating] environment and cares for its employees!]
+
+---
+
+
+
