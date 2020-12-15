@@ -43,7 +43,7 @@ class: inverse, center, middle
 
 # 2 - Data Science skills
 
-### Managing, visualizing and analyzing the data
+### Managing, visualizing and analyzing data
 
 # `r emo::ji('stats')`
 
@@ -109,7 +109,7 @@ class: inverse, center, middle
 
 * **Transforming Citizen Science for Biodiversity**, the project my PhD is part of is very cross-disciplinary and that is stimulating!
 
-* I am also running a blog where I try to explain simply complex statistical methodologies
+* I am also running a [blog](https://benjamincretois.netlify.app/post/) where I try to explain simply complex statistical methodologies
 
 .center[
 ```{r, echo = FALSE}
@@ -167,7 +167,7 @@ class: inverse, center, middle
 
 * Having a broad range of interests implies learning new methods / technologies fast!
 
-* I learned how to use **Overleaf** (online LaTeX editor) to collaborate with the statisticians
+* I learned how to use **Overleaf** (online LaTeX editor) to collaborate with statisticians
 
 * I learned **Bayesian statistics** on my own and I am now able to build complex models
 
@@ -182,7 +182,7 @@ knitr::include_graphics('mooc.PNG')
 ---
 # 5 - Absorbing knowledge quickly
 
-* I was currently planning to learn more about **image recognition algorithms** to work on a camera trap database:
+* I am currently planning to learn more about **image recognition algorithms** to work on a camera trap database
 
 * I learned the basic of **Machine Learning** in Python with Scikit-learn (SVM, Random Forests, KNN; very close to statistical methods!)
 
@@ -204,7 +204,7 @@ class: center, inverse
 
 --
 
-.RUred[Not be completely detached from the research environment but rather .orange[help researchers do better research]]
+.RUred[I do not want to be completely detached from the research environment but rather .orange[help researchers do better research]]
 
 --
 
